@@ -22,8 +22,8 @@ Talk about your motivation
 - **Something else**: Another entence
 
 ## 🧠 Methodology
-1. **Dataset**: Uses the [X](link here) dataset of x+ images as a base for injection.
-2. **Injection Technique**:  
+1. **Dataset**: Uses the [X](link here) dataset of x+
+2. **Architecture**:  
    - 
    - 
    - 
@@ -31,7 +31,7 @@ Talk about your motivation
    - 
    - 
    - 
-4. **Metrics**: Calculates the success rate of injections across the dataset to quantify vulnerability.
+4. **Metrics**: 
    - 
 
 #### Additional Methodology:
