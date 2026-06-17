@@ -35,7 +35,7 @@ Talk about your motivation.
    - 
 
 #### Additional Methodology:
-- ** Something optional**: Sentence
+- **Something optional**: Sentence
 
 ## 🌍 Impact
 What is the impact of your research project?
