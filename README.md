@@ -2,9 +2,9 @@
 
 # Fall 2026 Paper Implementations
 
-Hello leads!, clone this repo, add your own branch (just name it your name) with all your files and README.md with your synopsis, and then publish your new branch. Let us know if any of y'all have access issues.
+Hello leads! Find your branch and update it with all your files and README.md (template below). Let us know if run into any access issues.
 
-Use the below readme template as you work through your implementations! 
+Use the below README template as you work through your implementations! 
 
 <!--Remove text above the '---' -->
 ---
@@ -12,36 +12,36 @@ Use the below readme template as you work through your implementations!
 # Headliner
 
 ## 📌 Project Summary
-Talk about what this research is
+Talk about what this research is.
 
 ## 🎯 Motivation
-Talk about your motivation
+Talk about your motivation.
 
 ## 🧩 Novelty
 - **Something**: Sentence
-- **Something else**: Another entence
+- **Something else**: Another sentence
 
 ## 🧠 Methodology
 1. **Dataset**: Uses the [X](link here) dataset of x+
-2. **Architecture**:  
+2. **Architecture**: Specific model used
    - 
    - 
    - 
-3. **Evaluation**:  
+3. **Evaluation**:
    - 
    - 
    - 
-4. **Metrics**: 
+4. **Metrics**:
    - 
 
 #### Additional Methodology:
 - ** Something optional**: Sentence
 
 ## 🌍 Impact
-What is the impact of your research project
+What is the impact of your research project?
 
 #### Future Work
-- ** Something optional**: Sentence
+- **Something optional**: Sentence
 
 **Additional Sources:**
 - Optional
